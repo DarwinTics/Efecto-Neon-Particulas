@@ -40,8 +40,8 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente
 
 ## 🌐 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/share/15ZGiukTXG/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@darwintics) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@darwin.tic) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/@darwintics](https://www.instagram.com/darwintics?igsh=MXgzMHRuOG1nNmpjcw%3D%3D)) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]([https://tiktok.com/@@darwin.tic](https://www.tiktok.com/@darwin.tic?_t=ZM-8v2PreTj3X5&_r=1)) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@darwintics?si=HCU-OaItUkgAgoiG) 
 
 ## 💰 Donaciones
